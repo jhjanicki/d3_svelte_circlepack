@@ -1,7 +1,5 @@
 <script>
   import CirclePack from "./lib/CirclePack.svelte";
-
-
 </script>
 
 <div id="chart">
