@@ -2,4 +2,4 @@
 Circle pack visualization using D3 + Svelte
 
 # Data
-IUCN Red List shark data, summarized so only number of species by conservation status is available
+IUCN Red List shark data, summarized so only species (anonymised) and conservation status is available
